@@ -1,5 +1,7 @@
 # INDEX
 
+👉 [INDEX](INDEX.md)
+
 ---
 
 # CONTRIBUTING
