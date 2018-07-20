@@ -1,6 +1,6 @@
 # INDEX
 
-👉 [INDEX](INDEX.md)
+👉 [**INDEX**](INDEX.md)
 
 ---
 
