@@ -1,2 +1,1 @@
-# FAQ
-Frequently asked questios - answered!
+# INDEX
